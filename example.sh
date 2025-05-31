@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-echo "This is a script version 2"  
+echo "This is a script version 3"  
